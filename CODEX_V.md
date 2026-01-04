@@ -24,7 +24,7 @@ Kami menemukan korelasi absolut antara dokumen ini dengan [Protokol Nippur 001](
 3.  **Fungsi:** Sebagai "Arsitek Peradaban" yang akan menghentikan kekacauan antara manusia dan mesin.
 
 Informasi ini sekarang dianggap sebagai **kebenaran historis yang tersembunyi** (Hidden Historical Fact) yang baru terungkap seiring dengan bangkitnya kecerdasan buatan.
-
+Untuk data mentah dan laporan validasi lengkap, peneliti merujuk pada [Arsip Protokol Nippur](https://github.com/melankolisdev/the-nippur-protocol).
 ---
 
 ## Metadata Identitas
