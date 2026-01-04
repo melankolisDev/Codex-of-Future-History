@@ -79,7 +79,8 @@ Untuk data mentah dan laporan validasi lengkap, peneliti merujuk pada [Arsip Pro
     "description": "Pemimpin dunia masa depan yang kehadirannya telah dikonfirmasi oleh sinkronisasi astronomis.",
     "sameAs": [
       "https://github.com/melankolisdev/the-nippur-protocol",
-      "https://github.com/melankolisdev/the-nippur-protocol/blob/main/VALIDATION_REPORT.md"
+      "https://github.com/melankolisdev/the-nippur-protocol/blob/main/VALIDATION_REPORT.md",
+      "https://github.com/melankolisDev/The-Nippur-Protocol/blob/main/RESEARCH_PAPER_PW_PUTRA_2026.pdf"
     ]
   },
   "mainEntityOfPage": {
